@@ -1,0 +1,2 @@
+D:\Code projects\repos\ImagesToPdf\publish\ImagesToPdf.pdb
+D:\Code projects\repos\ImagesToPdf\publish\ImagesToPdf.exe
