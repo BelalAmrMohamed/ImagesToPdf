@@ -466,6 +466,9 @@ D:\Code projects\repos\ImagesToPdf\ImagesToPdf\bin\Release\net8.0-windows\win-x6
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\bin\Release\net8.0-windows\win-x64\zh-Hant\WindowsFormsIntegration.resources.dll
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Release\net8.0-windows\win-x64\ImagesToPdf.csproj.AssemblyReference.cache
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Release\net8.0-windows\win-x64\MainWindow.baml
+D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Release\net8.0-windows\win-x64\Themes\Dark.baml
+D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Release\net8.0-windows\win-x64\Themes\Light.baml
+D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Release\net8.0-windows\win-x64\App.baml
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Release\net8.0-windows\win-x64\MainWindow.g.cs
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Release\net8.0-windows\win-x64\App.g.cs
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Release\net8.0-windows\win-x64\ImagesToPdf_MarkupCompile.cache

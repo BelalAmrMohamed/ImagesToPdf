@@ -1,5 +1,8 @@
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Debug\net8.0-windows\ImagesToPdf.csproj.AssemblyReference.cache
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Debug\net8.0-windows\MainWindow.baml
+D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Debug\net8.0-windows\Themes\Dark.baml
+D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Debug\net8.0-windows\Themes\Light.baml
+D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Debug\net8.0-windows\App.baml
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Debug\net8.0-windows\App.g.cs
 D:\Code projects\repos\ImagesToPdf\ImagesToPdf\obj\Debug\net8.0-windows\ImagesToPdf_MarkupCompile.cache

@@ -5,8 +5,10 @@
     <UseWPF>true</UseWPF>
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
+    <ApplicationIcon>Assets\images-to-pdf.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <PackageReference Include="SkiaSharp" Version="3.116.1" />
+    <Resource Include="Assets\images-to-pdf.png" />
   </ItemGroup>
 </Project>

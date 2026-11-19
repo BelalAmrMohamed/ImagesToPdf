@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ImagesToPdf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b7d9b90585670e411a83a5d7292d13e392dd822")]
 [assembly: System.Reflection.AssemblyProductAttribute("ImagesToPdf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ImagesToPdf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

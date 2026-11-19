@@ -1,4 +1,7 @@
 .vs/
-ImagesToPdf.zip
-publish/
-ImagesToPdf-v0.0.0-win-x64.zip
+**/bin/
+**/obj/
+*.user
+*.suo
+*.zip
+*.tmp
